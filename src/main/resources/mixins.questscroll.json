@@ -9,5 +9,6 @@
 	],
 	"server": [],
 	"client": [
-		"MixinGuiBase"]
+		"MixinGuiBase",
+		"MixinPanel"]
 }
