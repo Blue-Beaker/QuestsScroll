@@ -1,0 +1,13 @@
+{
+	"package": "io.bluebeaker.questscroll.mixin",
+	"required": true,
+	"refmap": "mixins.questscroll.refmap.json",
+	"target": "@env(DEFAULT)",
+	"minVersion": "0.8.5",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+	],
+	"server": [],
+	"client": [
+		"MixinGuiBase"]
+}
